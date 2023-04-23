@@ -1,5 +1,5 @@
 module AsteroidGravityFields
 
-greet() = print("Hello World!")
+include("polyhedron.jl")
 
 end # module AsteroidGravityFields
